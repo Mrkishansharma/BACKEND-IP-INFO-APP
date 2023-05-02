@@ -1,0 +1,322 @@
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'POST',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/register',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:39:31.741Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'POST',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/register',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:39:51.435Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'POST',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/login',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:40:24.234Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'GET',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDUwZTg2NDdkZGE5Mzg2MzgwMzQwZDEiLCJpYXQiOjE2ODMwMjQwMjQsImV4cCI6MTY4MzA0NTYyNH0.97fDvXHj2OU7BnO3Q75vhVjHneFepLLa55X8Ap8-F98',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/logout',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:40:35.654Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'GET',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDUwZTg2NDdkZGE5Mzg2MzgwMzQwZDEiLCJpYXQiOjE2ODMwMjQwMjQsImV4cCI6MTY4MzA0NTYyNH0.97fDvXHj2OU7BnO3Q75vhVjHneFepLLa55X8Ap8-F98',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/current-location/80.124.24.201',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:40:52.694Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'GET',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDUwZTg2NDdkZGE5Mzg2MzgwMzQwZDEiLCJpYXQiOjE2ODMwMjQwMjQsImV4cCI6MTY4MzA0NTYyNH0.97fDvXHj2OU7BnO3Q75vhVjHneFepLLa55X8Ap8-F98',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/current-location/180.124.24.201',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:45:58.693Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'GET',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/current-location/180.124.24.201',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:46:41.327Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'POST',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/login',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:46:52.311Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'GET',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDUwZTg2NDdkZGE5Mzg2MzgwMzQwZDEiLCJpYXQiOjE2ODMwMjQ0MTIsImV4cCI6MTY4MzA0NjAxMn0.Q5lnV3XviRMwf9gBgAnvFFQNHxkWwP-ygR6ndcGu8rg',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/logout',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:47:01.361Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'GET',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDUwZTg2NDdkZGE5Mzg2MzgwMzQwZDEiLCJpYXQiOjE2ODMwMjQ0MTIsImV4cCI6MTY4MzA0NjAxMn0.Q5lnV3XviRMwf9gBgAnvFFQNHxkWwP-ygR6ndcGu8rg',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/current-location/180.124.24.201',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:47:10.809Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'GET',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDUwZTg2NDdkZGE5Mzg2MzgwMzQwZDEiLCJpYXQiOjE2ODMwMjQ0MTIsImV4cCI6MTY4MzA0NjAxMn0.Q5lnV3XviRMwf9gBgAnvFFQNHxkWwP-ygR6ndcGu8rg',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/current-location/180.124.24.201',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:49:40.168Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'POST',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDUwZTg2NDdkZGE5Mzg2MzgwMzQwZDEiLCJpYXQiOjE2ODMwMjQ0MTIsImV4cCI6MTY4MzA0NjAxMn0.Q5lnV3XviRMwf9gBgAnvFFQNHxkWwP-ygR6ndcGu8rg',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/login',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:49:53.081Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'GET',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDUwZTg2NDdkZGE5Mzg2MzgwMzQwZDEiLCJpYXQiOjE2ODMwMjQ1OTMsImV4cCI6MTY4MzA0NjE5M30.xRv1sS5oO_QunSaeB1JGVJiFPSYhvauC1-0x84XknZ8',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/current-location/180.124.24.201',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:50:00.136Z'
+}
+{
+  message: {
+    level: 'info',
+    name: 'Incomming Request',
+    method: 'GET',
+    Headers: {
+      refreshtoken: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTc4Mn0.AZweW97jVwnO2kuTgKPZYBLRmDcIfsmJR1ljnx5HAMI',
+      'content-length': '60',
+      'accept-encoding': 'gzip, deflate, br',
+      cookie: 'connect.sid=s%3A9LmOFJZXgvEvnKRT9aKvNzoCi-0H21O_.pvgLQXOXlvXyUXb4Fq1fOKyKoDwBjmqV%2FeAqgDu1204; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDUwZTg2NDdkZGE5Mzg2MzgwMzQwZDEiLCJpYXQiOjE2ODMwMjQ1OTMsImV4cCI6MTY4MzA0NjE5M30.xRv1sS5oO_QunSaeB1JGVJiFPSYhvauC1-0x84XknZ8',
+      accept: '*/*',
+      'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+      authorization: 'a eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI2NDM5OTBjZmUxNGViZmM2NmZiNDQyMzciLCJpYXQiOjE2ODE1MDE1ODIsImV4cCI6MTY4MTUwMTY4Mn0.cdEj54xZA6EnSjDHlHdbQSLc1tMerzDPPprJLdAUTBA',
+      'content-type': 'application/json',
+      host: 'localhost:3000',
+      connection: 'close'
+    },
+    url: '/current-location/180.124.24.201',
+    ip: '::ffff:127.0.0.1'
+  },
+  level: 'info',
+  timestamp: '2023-05-02T10:50:22.512Z'
+}
